@@ -1,3 +1,6 @@
 克隆到本地
 import cv2
 import matplotlib as plot
+
+imread(img)
+
